@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"cellrushGAME",
-    "path":"cellrushGAME.yyp",
+    "name":"other",
+    "path":"folders/Sprites/other.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
