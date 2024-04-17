@@ -2,6 +2,7 @@ randomize();
 if !code_is_compiled() // if not yyc, warn
 	trace("!!RUNNING IN VM!!");
 
+
 // no shader mode
 ini_open("saveData.ini");
 if !check_shaders() && !ini_read_real("online", "shitgraphs", false)
@@ -9,6 +10,7 @@ if !check_shaders() && !ini_read_real("online", "shitgraphs", false)
 	show_message("Shaders failed to compile.\nAll special effects, including palettes, will be disabled.");
 	ini_write_real("online", "shitgraphs", true);
 }
+
 
 pal_swap_init_system(shd_pal_swapper, -1, -1);
 

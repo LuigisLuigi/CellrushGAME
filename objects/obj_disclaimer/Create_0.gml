@@ -13,7 +13,7 @@ version = 10;
 
 // crack my own drm
 drm = false;
-str = "Welcome to Pizza Tower ONLINE.";
+str = "this is the demo for cellrush, enjoy";
 global.onlinemode = true;
 global.pastdisclaimer = true;
 

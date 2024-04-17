@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"cellrushGAME",
-    "path":"cellrushGAME.yyp",
+    "name":"collision",
+    "path":"folders/Sprites/generalobjects/collision.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_retro_pal_swapper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_retro_pal_swapper",
+  "parent":{
+    "name":"palette",
+    "path":"folders/Scripts/palette.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

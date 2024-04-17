@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"cellrushGAME",
-    "path":"cellrushGAME.yyp",
+    "name":"blocks",
+    "path":"folders/Sprites/generalobjects/blocks.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
