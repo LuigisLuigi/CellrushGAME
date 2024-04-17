@@ -2,7 +2,7 @@
 
 this is a game (ouah!!) and its based off of the popular game pizza tower. this is completely open source and you can do whatever you want with it, except copy it and say its yours obv.
 But like if you wanna just use the code or sprites for your own stuff, go ahead idc.
-This is my passion projecta and ill be working on it for a while, so stick around to see what happens, or dont, either is fine with me
+This is my passion project and ill be working on it for a while, so stick around to see what happens, or dont, either is fine with me
 
 
 # Fork
