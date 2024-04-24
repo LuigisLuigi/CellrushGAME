@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_panicbg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_panicbg",
+  "parent":{
+    "name":"panicbg",
+    "path":"folders/Scripts/panicbg.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
