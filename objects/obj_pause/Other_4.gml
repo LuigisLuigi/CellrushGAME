@@ -1,0 +1,2 @@
+canpause = true;
+

@@ -1,7 +1,8 @@
 randomize();
+/*
 if !code_is_compiled() // if not yyc, warn
 	trace("!!RUNNING IN VM!!");
-
+*/
 
 // no shader mode
 ini_open("saveData.ini");
