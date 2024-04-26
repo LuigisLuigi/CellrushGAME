@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_obj_cameras",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_obj_cameras",
+  "parent":{
+    "name":"editor",
+    "path":"folders/Scripts/editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
