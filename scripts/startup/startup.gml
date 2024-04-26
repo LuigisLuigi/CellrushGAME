@@ -3,7 +3,7 @@ global.pastdisclaimer = false;
 if !(room_first == rm_load && room_next(room_first) == Realtitlescreen)
 {
 	audio_stop_all();
-	scr_soundeffect(sfx_pephurt);
+	//scr_soundeffect(sfx_pephurt);
 	
 	show_message("The room order does not match");
 	game_end();
@@ -169,7 +169,7 @@ function unlock_hat(index)
 	
 	if !hat
 	{
-		scr_soundeffect(sfx_unlock);
+		//scr_soundeffect(sfx_unlock);
 		global.hatunlock[index] = true;
 		
 		if instance_exists(obj_gms) && !gms_self_isguest()
