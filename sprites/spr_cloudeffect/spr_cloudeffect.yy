@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"cellrushGAME",
-    "path":"cellrushGAME.yyp",
+    "name":"effect",
+    "path":"folders/Sprites/effect.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scr_collide_destructibles",
   "isCompatibility":false,
   "isDnD":false,
